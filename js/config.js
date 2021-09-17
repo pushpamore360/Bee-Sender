@@ -2,4 +2,4 @@
 // change this address to your own address , a half transfer fee will send to this address. 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-var FeeReciever = "0xEAc8555E83919Cedc065849b0FDc843bC03EFd4d";
+var FeeReciever = "0x02B296a86dA1f189B3c30A19d7b06c4fc59Ca24b";
